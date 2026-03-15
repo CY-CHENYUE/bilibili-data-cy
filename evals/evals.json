@@ -1,0 +1,22 @@
+[
+  {"query": "帮我看看这个 B 站视频讲了什么 https://www.bilibili.com/video/BV1HuwxzFEcZ", "should_trigger": true},
+  {"query": "搜一下 B 站上关于 Python 教程的视频，找播放量最高的", "should_trigger": true},
+  {"query": "帮我获取这个 B 站视频的弹幕数据 BV1HuwxzFEcZ，分析观众反应", "should_trigger": true},
+  {"query": "这个BV号是什么视频 BV1HuwxzFEcZ", "should_trigger": true},
+  {"query": "总结一下这个bilibili视频的内容", "should_trigger": true},
+  {"query": "B站上最近什么比较火", "should_trigger": true},
+  {"query": "帮我看看这个UP主的数据 uid 402808950", "should_trigger": true},
+  {"query": "获取这个视频的评论区热评 https://b23.tv/abcdef", "should_trigger": true},
+  {"query": "bilibili搜索 机器学习入门", "should_trigger": true},
+  {"query": "这个B站视频有字幕吗", "should_trigger": true},
+  {"query": "看看B站每周必看有什么好视频", "should_trigger": true},
+  {"query": "分析一下这个B站链接的观众评论情绪", "should_trigger": true},
+  {"query": "帮我写一篇关于 Python 入门的文章", "should_trigger": false},
+  {"query": "这个 YouTube 视频讲了什么", "should_trigger": false},
+  {"query": "帮我发一条小红书笔记", "should_trigger": false},
+  {"query": "搜索一下最近的AI新闻", "should_trigger": false},
+  {"query": "今天天气怎么样", "should_trigger": false},
+  {"query": "帮我把这段代码重构一下", "should_trigger": false},
+  {"query": "抖音上有什么好看的视频", "should_trigger": false},
+  {"query": "帮我排版一篇微信公众号文章", "should_trigger": false}
+]
